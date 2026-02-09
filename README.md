@@ -1,1 +1,1 @@
-# JS-Dom-Notes
+# 📚 JavaScript DOM Notes
