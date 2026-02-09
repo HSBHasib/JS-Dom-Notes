@@ -10,7 +10,6 @@
 ---
 
 ### 🌳 DOM Tree Structure
-### 🧠 Why use Try & Catch?
 ``` js
     Every part of the HTML is a Node: 
     • Element Node: <div>, <h1>, <p> etc. 
