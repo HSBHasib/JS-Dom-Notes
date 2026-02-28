@@ -188,3 +188,4 @@ Notun element-ta kothay thakbe sheta niche dewa holo:
 | Nature            | 🔄 Live (Auto updates)            | 🧊 Static (Doesn't update)          |
 | Array Methods     | ❌ Not supported                  | ✅ Supports `.forEach()`            |
 
+

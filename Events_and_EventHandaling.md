@@ -93,3 +93,5 @@ Eita performance-er jonno bhalo.
 
  • Arrow Functions in Events: Event-er bhetore this use korte chaile Regular Function use kora safe, karun Arrow function-e this thikmoto kaj kore na (Global window-ke dhore fele).
 
+
+
